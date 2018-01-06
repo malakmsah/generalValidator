@@ -1,7 +1,7 @@
 # General validator
 
 * Prerequisites
-- PHP xml should be installed.
+PHP xml should be installed.
 
 * This code contains:
 1- A general validation class for some data types, like: integer, string, boolean, etc.
